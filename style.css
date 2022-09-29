@@ -1,0 +1,29 @@
+.container {
+    height: 100vh;
+    margin-top: 25px;
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns:1fr 1fr;  
+}
+
+.item1{
+    text-align: start;
+    padding: 100px;
+}
+
+.img{
+    width: 100%;
+ }
+
+.grid-item {
+       margin: 20px;
+       text-align: justify;
+}
+
+.grid-item-1{
+    padding: 200px;
+    text-align: center;
+}
